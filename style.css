@@ -15,25 +15,23 @@ body {
     background-color: #4e2457;
     display: flex;
     justify-content: space-between; 
-    align-items: center;            
-    padding: 40px 2cm;
+    align-items: flex-end; 
+    padding: 60px 2cm 10px 2cm;  
 }
 
 header {
     font-size: 25px;
     color: #d8b5e3;
-    padding: 0;
+    padding: 0 0 5px 0;  
 }
-
 
 header b {
     font-weight: bold;
 }
 
 nav {
-    padding: 0;
+    padding: 0 0 5px 0;  
 }
-
 
 .topdiv {
     display: flex;
